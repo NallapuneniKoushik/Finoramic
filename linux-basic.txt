@@ -1,0 +1,9 @@
+For linux
+
+In python to install all dependencies
+
+convert the json to txt file then follow this command
+
+
+
+pip3 install -r requirements.txt   #file name is requirements .txt
